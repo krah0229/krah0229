@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+Bare-Metal+C+on+STM32;ROS+%2B+TurtleBot+Autonomy+Software;Rover+Software+%40+SIRI;Hardware+%2B+Software+%3D+Working+Robots" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=ROS+%2B+TurtleBot+Autonomy+Software;Embedded+Systems+%7C+Bare-Metal+C+on+STM32;Rover+Software+%40+SIRI;Hardware+%2B+Software+%3D+Working+Robots" alt="typing intro"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krah0229&style=flat-square&color=38BDF8&label=Profile+Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=krah0229&style=flat-square&color=3DDC84&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
