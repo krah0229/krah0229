@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="./banner.svg?v=2" alt="Kazi Ayman Rahman" width="100%"/>
+  <img src="./turtlebot-banner.svg" alt="Kazi Ayman Rahman" width="100%"/>
 </p>
 
 <p align="center">
