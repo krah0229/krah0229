@@ -77,8 +77,22 @@ learning_next: [SLAM, path planning, computer vision]
 
 ## 🛠️ Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,ros,linux,ubuntu,git,github,vscode,latex,arduino,raspberrypi&perline=13" alt="tech stack"/>
+<p align="center"><b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab" height="48" alt="C, C++, Python, MATLAB"/>
+  <img src="./assembly-icon.svg" height="48" alt="Assembly"/>
+</p>
+
+<p align="center"><b>Robotics and Embedded</b><br/>
+  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,linux,ubuntu" height="48" alt="ROS, Arduino, Raspberry Pi, Linux, Ubuntu"/>
+</p>
+
+<p align="center"><b>CAD and Electronics Design</b><br/>
+  <img src="./design-icons.svg" height="48" alt="SolidWorks, Fusion 360, KiCad, EasyEDA"/>
+  <img src="https://skillicons.dev/icons?i=autocad" height="48" alt="AutoCAD"/>
+</p>
+
+<p align="center"><b>Development Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,latex" height="48" alt="Git, GitHub, VS Code, LaTeX"/>
 </p>
 
 <p align="center">
@@ -88,6 +102,7 @@ learning_next: [SLAM, path planning, computer vision]
   <img src="https://img.shields.io/badge/MATLAB-Numerical%20Modelling-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-CAD-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fusion%20360%20%2F%20AutoCAD-Design-FF6F00?style=flat-square&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad%20%2F%20EasyEDA-PCB%20Design-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
   <img src="https://img.shields.io/badge/Protocols-SPI%20%7C%20I2C%20%7C%20UART%20%7C%20PWM-38BDF8?style=flat-square"/>
 </p>
 
