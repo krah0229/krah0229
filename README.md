@@ -77,23 +77,26 @@ learning_next: [SLAM, path planning, computer vision]
 
 ## 🛠️ Tools I Use
 
-<p align="center"><b>Languages</b><br/>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab" height="48" alt="C, C++, Python, MATLAB"/>
   <img src="./assembly-icon.svg" height="48" alt="Assembly"/>
-</p>
-
-<p align="center"><b>Robotics and Embedded</b><br/>
+</td>
+<td align="center"><b>Robotics and Embedded</b><br/>
   <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,linux,ubuntu" height="48" alt="ROS, Arduino, Raspberry Pi, Linux, Ubuntu"/>
-</p>
-
-<p align="center"><b>CAD and Electronics Design</b><br/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>CAD and Electronics Design</b><br/>
   <img src="./design-icons.svg" height="48" alt="SolidWorks, Fusion 360, KiCad, EasyEDA"/>
   <img src="https://skillicons.dev/icons?i=autocad" height="48" alt="AutoCAD"/>
-</p>
-
-<p align="center"><b>Development Tools</b><br/>
+</td>
+<td align="center"><b>Development Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,latex" height="48" alt="Git, GitHub, VS Code, LaTeX"/>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STM32-Bare--Metal%20C-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
