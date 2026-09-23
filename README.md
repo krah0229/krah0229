@@ -42,13 +42,16 @@ I build systems where hardware meets software: register-level firmware on microc
 <td width="50%" valign="top">
 
 ### 📊 Results I've Delivered
-| Metric | Project |
+| Impact | Project |
 |:--|:--|
-| **76.6%** resonant displacement reduction | Dual-TMD vibration suppression |
-| **1.88 mW** passive energy harvest | Dual-TMD vibration suppression |
-| **10.4 t** capsule at **4,000 m** depth | Artemis II Orion recovery fixture |
-| **7-DOF** constrained dynamics model | Dual-TMD system |
-| **2** STM32 boards, 1 unified FSM | Escape room control system |
+| 🌊 Engineered retrieval of a **10.4 t** capsule from **4,000 m** below sea level | Artemis II Orion recovery fixture |
+| 📉 Cut resonant bridge displacement by **76.6%** | Dual-TMD vibration suppression |
+| ⚡ Harvested **1.88 mW** passively from structural vibration | Dual-TMD energy harvesting |
+| 🧮 Built a **7-DOF** constrained dynamics model with Baumgarte stabilisation | Dual-TMD system |
+| 🔌 Fused **2 STM32s** and **5 interfaces** (SPI, I2C, UART, PWM, LiDAR capture) in bare-metal C | Escape room control system |
+| 🛰️ Delivered **error-corrected telemetry** and pathfinding under communication latency | Autonomous planetary navigation |
+| 🏠 Deployed **multi-platform IoT** smart-home systems for real clients | AmiNY Services internship |
+| 📈 Ran an **AI-automated** business for **2+ years** alongside full-time study | E-commerce founder |
 
 </td>
 </tr>
@@ -61,13 +64,13 @@ I build systems where hardware meets software: register-level firmware on microc
 ```yaml
 current_focus:
   - project: "ROS + TurtleBot"
-    role: "Software"
-    topics: [autonomous navigation, sensor integration, robot control]
+    role: "Robotics Software Specialist | ROS Navigation and Simulation"
+    topics: [autonomous navigation, LiDAR and odometry integration, robot simulation, closed-loop motion control]
   - project: "SIRI | Sydney Interplanetary Rover Initiative"
-    role: "Team Member"
-    topics: [planetary rover systems, robotics, competition engineering]
+    role: "Lander Test Module Specialist"
+    topics: [test module design, hardware verification and validation, model-based systems engineering, lunar and Mars rover systems]
   - project: "University of Sydney coursework"
-    topics: [embedded systems, numerical methods, mechanical design]
+    units: [Mechanics of Solids, Electrical Circuits and Devices (MOSFETs and BJTs), Manufacturing Engineering, Object Oriented Design]
 learning_next: [SLAM, path planning, computer vision]
 ```
 
@@ -95,7 +98,8 @@ learning_next: [SLAM, path planning, computer vision]
 | **Robotics** | ROS, TurtleBot, closed-loop motor control, differential steering, graph-based path planning |
 | **Modelling** | Newtonian multi-body dynamics, Baumgarte stabilisation, numerical PDE methods, vibration analysis |
 | **Mechanical** | Structural design under yield and buckling constraints, CAD in SolidWorks and Fusion 360 |
-| **Software** | Python GUIs and telemetry, data analysis, automation pipelines, Git workflows |
+| **Manufacturing** | Laser cutting, FDM 3D printing, rapid prototyping, design for manufacture, manufacturing process selection |
+| **Software** | Python GUIs and telemetry, data analysis, automation pipelines, Git workflows, object oriented design |
 
 ---
 
@@ -166,10 +170,11 @@ LDR-based sensing with FSM control, timeout-based IDLE management and bidirectio
 |:--|:--|:--|
 | 🔧 **Engineering Intern** | AmiNY Services, Singapore | Nov 2025 to Mar 2026 |
 | 📦 **Founder & Operator** | E-commerce Business, Singapore | Dec 2023 to Present |
-| 🪐 **Team Member** | SIRI, Sydney Interplanetary Rover Initiative | Current |
+| 🪐 **Lander Test Module Specialist** | SIRI, Sydney Interplanetary Rover Initiative | Current |
+| 💰 **Treasurer** | MoanaSoc | Aug 2026 to Present |
 | 🎖️ **President** | Engineering International Student Association | Oct 2025 to Feb 2026 |
-| 🤝 **Vice Internal President** | Sydney University Bangladesh Students Association | Apr 2025 to Present |
-| 🌏 **International Student Officer** | SUEUA | Until Oct 2025 |
+| 🤝 **Vice Internal President** | Sydney University Bangladesh Students Association | Apr 2025 to Jun 2026 |
+| 🌏 **International Student Officer** | SUEUA | Mar 2025 to Apr 2026 |
 
 <p>
   <img src="https://img.shields.io/badge/English-Fluent%20(IELTS%208.0)-1f6feb?style=flat-square"/>
