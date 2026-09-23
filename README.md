@@ -26,22 +26,25 @@ I'm a **Mechatronics Engineering (Honours)** student at **The University of Sydn
 
 I build systems where hardware meets software: register-level firmware on microcontrollers, autonomous navigation, and physics-based models that predict how real machines behave. I've also shipped real IoT deployments for clients and led student organisations of 100+ members, so I'm comfortable owning a project from requirements through to handover.
 
+### ⚡ At a Glance
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⚡ At a Glance
-- 🤖 Robotics software with **ROS + TurtleBot**
-- 🪐 Rover team member at **SIRI**
-- 🔌 **Bare-metal C** across multi-board STM32 systems
-- 🏠 Industry internship deploying **IoT smart-home systems**
-- 📈 Founder of a data-driven **e-commerce business**
-- 🎖️ President of the **Engineering International Student Association**
-
-</td>
-<td width="50%" valign="top">
+<td>🤖 Robotics software with <b>ROS + TurtleBot</b></td>
+<td>🪐 Rover team member at <b>SIRI</b></td>
+</tr>
+<tr>
+<td>🔌 <b>Bare-metal C</b> across multi-board STM32 systems</td>
+<td>🏠 Industry internship deploying <b>IoT smart-home systems</b></td>
+</tr>
+<tr>
+<td>📈 Founder of a data-driven <b>e-commerce business</b></td>
+<td>🎖️ President of the <b>Engineering International Student Association</b></td>
+</tr>
+</table>
 
 ### 📊 Results I've Delivered
+
 | Impact | Project |
 |:--|:--|
 | 🌊 Engineered retrieval of a **10.4 t** capsule from **4,000 m** below sea level | Artemis II Orion recovery fixture |
@@ -52,10 +55,6 @@ I build systems where hardware meets software: register-level firmware on microc
 | 🛰️ Delivered **error-corrected telemetry** and pathfinding under communication latency | Autonomous planetary navigation |
 | 🏠 Deployed **multi-platform IoT** smart-home systems for real clients | AmiNY Services internship |
 | 📈 Ran an **AI-automated** business for **2+ years** alongside full-time study | E-commerce founder |
-
-</td>
-</tr>
-</table>
 
 ---
 
