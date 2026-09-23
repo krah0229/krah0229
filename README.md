@@ -1,17 +1,17 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kazi%20Ayman%20Rahman&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineering%20(Hons)%20%7C%20Robotics%20%26%20Intelligent%20Systems&descAlignY=58&descSize=16" alt="header banner"/>
+  <img src="./banner.svg" alt="Kazi Ayman Rahman" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Embedded+Systems+%7C+Bare-Metal+C+on+STM32;ROS+%2B+TurtleBot+Autonomy+Software;Rover+Software+%40+SIRI+(Sydney+Interplanetary+Rover+Initiative);Turning+hardware+and+software+into+working+robots" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+Bare-Metal+C+on+STM32;ROS+%2B+TurtleBot+Autonomy+Software;Rover+Software+%40+SIRI;Hardware+%2B+Software+%3D+Working+Robots" alt="typing intro"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaymanr"><img src="https://img.shields.io/badge/LinkedIn-kaymanr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kazi.ayman.rahman@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Sydney%2C%20AU-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kaymanr"><img src="https://img.shields.io/badge/LinkedIn-kaymanr-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <a href="mailto:kazi.ayman.rahman@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Sydney%2C%20AU-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Sydney"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to internships"/>
 </p>
 
 <p align="center">
