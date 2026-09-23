@@ -31,7 +31,7 @@ I build systems where hardware meets software: register-level firmware on microc
 <table>
 <tr>
 <td>🤖 Robotics software with <b>ROS + TurtleBot</b></td>
-<td>🪐 Rover team member at <b>SIRI</b></td>
+<td>🪐 <b>Lander Test Module Specialist</b> at SIRI</td>
 </tr>
 <tr>
 <td>🔌 <b>Bare-metal C</b> across multi-board STM32 systems</td>
@@ -54,7 +54,7 @@ I build systems where hardware meets software: register-level firmware on microc
 | 🔌 Fused **2 STM32s** and **5 interfaces** (SPI, I2C, UART, PWM, LiDAR capture) in bare-metal C | Escape room control system |
 | 🛰️ Delivered **error-corrected telemetry** and pathfinding under communication latency | Autonomous planetary navigation |
 | 🏠 Deployed **multi-platform IoT** smart-home systems for real clients | AmiNY Services internship |
-| 📈 Ran an **AI-automated** business for **2+ years** alongside full-time study | E-commerce founder |
+| 📈 Founded an **AI-automated** business with **data-driven pricing** models, run during university breaks | E-commerce founder |
 
 ---
 
